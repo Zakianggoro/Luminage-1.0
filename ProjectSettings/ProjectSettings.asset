@@ -4,7 +4,11 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
+<<<<<<< HEAD
   productGUID: 5f909e95259f2394f9c240e1ea68db5b
+=======
+  productGUID: eee067d70057225438b715482737ac5f
+>>>>>>> parent of da9061a (Delete)
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +17,11 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
+<<<<<<< HEAD
   productName: Tower Defense UI
+=======
+  productName: Luminage
+>>>>>>> parent of da9061a (Delete)
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -157,14 +165,22 @@ PlayerSettings:
   resetResolutionOnWindowResize: 0
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
+<<<<<<< HEAD
   applicationIdentifier:
     Standalone: com.DefaultCompany.2DProject
+=======
+  applicationIdentifier: {}
+>>>>>>> parent of da9061a (Delete)
   buildNumber:
     Standalone: 0
     VisionOS: 0
     iPhone: 0
     tvOS: 0
+<<<<<<< HEAD
   overrideDefaultApplicationIdentifier: 1
+=======
+  overrideDefaultApplicationIdentifier: 0
+>>>>>>> parent of da9061a (Delete)
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 22
   AndroidTargetSdkVersion: 0
@@ -244,8 +260,13 @@ PlayerSettings:
   iOSAutomaticallyDetectAndAddCapabilities: 1
   appleEnableProMotion: 0
   shaderPrecisionModel: 0
+<<<<<<< HEAD
   clonedFromGUID: 10ad67313f4034357812315f3c407484
   templatePackageId: com.unity.template.2d@7.0.3
+=======
+  clonedFromGUID: c19f32bac17ee4170b3bf8a6a0333fb9
+  templatePackageId: com.unity.template.universal-2d@2.1.2
+>>>>>>> parent of da9061a (Delete)
   templateDefaultScene: Assets/Scenes/SampleScene.unity
   useCustomMainManifest: 0
   useCustomLauncherManifest: 0
@@ -283,6 +304,7 @@ PlayerSettings:
   m_BuildTargetPlatformIcons: []
   m_BuildTargetBatching: []
   m_BuildTargetShaderSettings: []
+<<<<<<< HEAD
   m_BuildTargetGraphicsJobs:
   - m_BuildTarget: MacStandaloneSupport
     m_GraphicsJobs: 0
@@ -318,6 +340,11 @@ PlayerSettings:
   - m_BuildTarget: iOSSupport
     m_APIs: 10000000
     m_Automatic: 1
+=======
+  m_BuildTargetGraphicsJobs: []
+  m_BuildTargetGraphicsJobMode: []
+  m_BuildTargetGraphicsAPIs: []
+>>>>>>> parent of da9061a (Delete)
   m_BuildTargetVRSettings: []
   m_DefaultShaderChunkSizeInMB: 16
   m_DefaultShaderChunkCount: 0
@@ -334,9 +361,13 @@ PlayerSettings:
   m_BuildTargetGroupLightmapSettings: []
   m_BuildTargetGroupLoadStoreDebugModeSettings: []
   m_BuildTargetNormalMapEncoding: []
+<<<<<<< HEAD
   m_BuildTargetDefaultTextureCompressionFormat:
   - m_BuildTarget: Android
     m_Format: 3
+=======
+  m_BuildTargetDefaultTextureCompressionFormat: []
+>>>>>>> parent of da9061a (Delete)
   playModeTestRunnerEnabled: 0
   runPlayModeTestAsEditModeTest: 0
   actionOnDotNetUnhandledException: 1
@@ -531,7 +562,11 @@ PlayerSettings:
   ps4GarlicHeapSize: 2048
   ps4ProGarlicHeapSize: 2560
   playerPrefsMaxSize: 32768
+<<<<<<< HEAD
   ps4Passcode: bi9UOuSpM2Tlh01vOzwvSikHFswuzleh
+=======
+  ps4Passcode: D25bFOIlcWmANChRvUT1ao3Ud48vHsjc
+>>>>>>> parent of da9061a (Delete)
   ps4pnSessions: 1
   ps4pnPresence: 1
   ps4pnFriends: 1
@@ -626,14 +661,22 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
+<<<<<<< HEAD
   metroPackageName: Tower Defense UI
+=======
+  metroPackageName: Luminage
+>>>>>>> parent of da9061a (Delete)
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
+<<<<<<< HEAD
   metroApplicationDescription: Tower Defense UI
+=======
+  metroApplicationDescription: Luminage
+>>>>>>> parent of da9061a (Delete)
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -701,11 +744,19 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
+<<<<<<< HEAD
   cloudProjectId: 
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: 
   organizationId: 
+=======
+  cloudProjectId: f05bffa5-f741-4852-9c67-dcdbbfbd4896
+  framebufferDepthMemorylessMode: 0
+  qualitySettingsNames: []
+  projectName: Luminage
+  organizationId: phoenixops
+>>>>>>> parent of da9061a (Delete)
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}

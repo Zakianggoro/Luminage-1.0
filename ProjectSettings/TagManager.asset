@@ -3,8 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
+<<<<<<< HEAD
   tags:
   - Enemy
+=======
+  tags: []
+>>>>>>> parent of da9061a (Delete)
   layers:
   - Default
   - TransparentFX
@@ -12,10 +16,17 @@ TagManager:
   - 
   - Water
   - UI
+<<<<<<< HEAD
   - Enemy
   - Bullet
   - Plot
   - Operator
+=======
+  - 
+  - 
+  - 
+  - 
+>>>>>>> parent of da9061a (Delete)
   - 
   - 
   - 
@@ -42,6 +53,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+<<<<<<< HEAD
   - name: Tower
     uniqueID: 2596204087
     locked: 0
+=======
+>>>>>>> parent of da9061a (Delete)

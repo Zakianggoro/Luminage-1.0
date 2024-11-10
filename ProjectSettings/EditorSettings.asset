@@ -11,6 +11,10 @@ EditorSettings:
   m_PrefabUIEnvironment: {fileID: 0}
   m_SpritePackerMode: 5
   m_SpritePackerPaddingPower: 1
+<<<<<<< HEAD
+=======
+  m_Bc7TextureCompressor: 0
+>>>>>>> parent of da9061a (Delete)
   m_EtcTextureCompressorBehavior: 1
   m_EtcTextureFastCompressor: 1
   m_EtcTextureNormalCompressor: 2
