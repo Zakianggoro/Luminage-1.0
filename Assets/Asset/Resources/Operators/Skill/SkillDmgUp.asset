@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11db86cfecddb12459e4fc717ff4bca6, type: 3}
+  m_Name: SkillDmgUp
+  m_EditorClassIdentifier: 
+  skillImage: {fileID: 21300000, guid: 1e6a01d7c93559143896a023fdc4682b, type: 3}
+  skillName: Damage Up
+  skillDescription: Increase ATK by 40%
+  skillType: Manual
+  skillDuration: 15
+  skillCooldown: 15
+  energyRequired: 10
