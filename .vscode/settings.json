@@ -56,5 +56,9 @@
         "temp/": true,
         "Temp/": true
     },
+<<<<<<< HEAD
     "dotnet.defaultSolution": "Luminage-1.0.sln"
+=======
+    "dotnet.defaultSolution": "Luminage.sln"
+>>>>>>> parent of da9061a (Delete)
 }
